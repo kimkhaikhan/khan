@@ -1,0 +1,37 @@
+	home
+home-background
+home-bgn
+home-custompackage
+home-inlelake
+home-logo
+home-ngapali
+home-shwedagonpaya
+xxxxxxxxxxxxxxxxxxxxxxxxxx
+
+	about
+about--background
+about-koyin
+about-logo
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxx
+	contact
+
+contact-background
+contact-logo
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxx
+	services
+service-background
+service-logo
+service-rent_car
+service-vip
+service-man
+service-hotel
+service-airplane
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+

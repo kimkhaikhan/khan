@@ -1,0 +1,60 @@
+.navbar {
+    border: 1px solid white;
+    background-color: black;
+    color: white;
+}
+
+.logo-name {
+    font-size:15px;
+    padding: 0px 5px 5px 0px;
+}
+
+.hero {
+    height: 70vh;
+    background: url("home-background.jpg");
+    background-size: cover;
+    background-position: bottom center;
+    background-attachment: initial;
+}
+
+.links li a {
+    color: white;
+    margin: 20px 5px 5px 5px;  
+  }
+  .home {
+      margin: 20px 5px 5px 5px;  
+  }
+  /* content */
+  .content {
+    padding-top: 0vh;
+    padding-bottom: 28vh;
+  }
+
+
+
+  /* section{padding:80px 0px} */
+.mainBanner {
+    padding:180px 20px;
+    background-size:cover;
+    background-position:center center;
+    background-image:url(images/myn.jpg);
+    color:#4b3939}
+
+    .mainBanner h1{margin:0}
+    @media (max-width:450px){.mainContent h1{font-size:1.5em}}
+    
+    .shadowBox {
+        padding:2em;
+        margin-bottom:2em;
+        -webkit-box-shadow:1px 1px 21px -4px   rgba(0, 0, 0, 0.75);box-shadow:1px 1px 21px -4px rgba(0, 0, 0, 0.75)}.shadowBox img{width:100%;height:auto}.packageRequest button{width:200px;height:40px;font-size:14px;background-color:#337ab7;color:white}.testimonial h1{font-size:4em}@media (max-width:495px){.testimonial h1{font-size:2em}}
+
+
+
+
+
+/* .hero h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 200;
+    font-size: 84px;
+} */
+

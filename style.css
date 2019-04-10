@@ -1,0 +1,32 @@
+.logo {
+  color: white;
+  align-self: auto;
+}
+
+.hero {
+  height: 80vh;
+  
+  background: url(home/home-background.jpg);
+  opacity: 200px;
+  background-size: cover;
+  background-position: top center;
+  background-attachment: fixed;
+ }
+
+  .hero h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 200;
+    font-size: 84px; }
+    
+  .hero h1, .hero h3, .hero p {
+    color: white; }
+
+.hero-text {
+  padding-top: 28vh;
+  padding-bottom: 28vh; }
+
+.links li a {
+  color: white; }
+
+nav {
+  padding-top: 20px; }

@@ -1,0 +1,35 @@
+.logo {
+    color: white;
+}
+
+.hero  {
+    height: 100vh;
+    background: url("images/project-image2.jpg");
+    /* background-position: top center; */
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.links li a {
+    color: white;
+}
+
+.hero-text {
+    padding-top: 28vh;
+    padding-bottom: 28vh; 
+}
+
+.hero h1 {
+    font-family: 'Source SansPro', sans-serif;
+    font-weight: 500;
+    font-size: 84px;
+}
+
+.hero h1, .hero p {
+    color: white;
+}
+
+nav {
+    padding-top: 20px;
+}
+
